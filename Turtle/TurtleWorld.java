@@ -1,4 +1,3 @@
-import java.awt.Color;
 
 public class TurtleWorld
 {
@@ -11,3 +10,5 @@ public class TurtleWorld
         turtle.forward(50);
     }
 }
+
+
